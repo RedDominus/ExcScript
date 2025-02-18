@@ -1,3 +1,6 @@
+[By RedDominus]
+[Owned by The Scripts]
+[Coded by RedDominus & The Scripts]
 -- Services
 local CoreGui = game:GetService("CoreGui")
 local UserInputService = game:GetService("UserInputService")
